@@ -1,0 +1,64 @@
+{
+  "_from": "git+https://github.com/stenvix/cordova-safe.git",
+  "_id": "cordova-safe@2.0.1",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-safe",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/stenvix/cordova-safe.git",
+    "rawSpec": "https://github.com/stenvix/cordova-safe.git",
+    "saveSpec": "git+https://github.com/stenvix/cordova-safe.git",
+    "fetchSpec": "https://github.com/stenvix/cordova-safe.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#DEV:/",
+    "#USER"
+  ],
+  "_resolved": "git+https://github.com/stenvix/cordova-safe.git#7eeb6e0098bb7ab08f7a18557a0f44209435c572",
+  "_spec": "https://github.com/stenvix/cordova-safe.git",
+  "_where": "C:\\Projects\\mWorkerCIS\\clientapp\\cordova",
+  "author": {
+    "name": "Carlos Antonio"
+  },
+  "bugs": {
+    "url": "https://github.com/disusered/cordova-safe/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "com.disusered.safe",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Simple file crypto for Cordova.",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-eslint": "^0.15.0"
+  },
+  "homepage": "https://github.com/disusered/cordova-safe",
+  "keywords": [
+    "cordova",
+    "file",
+    "encrypt",
+    "decrypt",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "license": "MIT",
+  "name": "cordova-safe",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/disusered/cordova-safe.git"
+  },
+  "scripts": {
+    "lint": "gulp lint",
+    "watch": "gulp watch"
+  },
+  "version": "2.0.1"
+}
